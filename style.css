@@ -457,6 +457,24 @@ footer {
     header .logo span {
         color: #000;
     }
+    #cars h1 {
+        margin-top: 60pxpx;
+       
+    }
+    #home .right img {
+        width: 50%;
+        margin-top: -40px;
+        height: 100%;
+        
+    }
+    #home .left h1 {
+        font-size: 35px;
+        margin-bottom: 10px;
+        line-height: 40px;
+    }
+    #home .left h1 span {
+        color: #ea1f33;
+    }
 
 
 }
