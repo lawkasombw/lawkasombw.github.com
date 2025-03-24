@@ -140,6 +140,7 @@ header button a {
     text-transform: uppercase;
     position: relative;
     font-size: 25px;
+    
 }
 .section_title:before {
     position: absolute;
@@ -474,6 +475,12 @@ footer {
     }
     #home .left h1 span {
         color: #ea1f33;
+    }
+    .section_title {
+        text-transform: uppercase;
+        position: relative;
+        font-size: 25px;
+        margin-top: 80px;
     }
 
 
